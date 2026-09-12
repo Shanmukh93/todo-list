@@ -1,0 +1,6 @@
+{
+  "name": "Todo List",
+  "description": "A mobile-styled React Native to-do list app with task management, categories, priorities, local storage, and exportable React Native source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
